@@ -1,4 +1,5 @@
-# Домашняя работа с PostgreSQL. Создание БД
-
-- Реализация таблиц треков: https://github.com/mirrosha26/DB/tree/main/Tracks
-- Реализация таблиц сортудников: https://github.com/mirrosha26/DB/tree/main/Staff
+# Домашнее задание к лекции «Продвинутая выборка данных»
+Результатом работы являются 3 файла в формате .sql:
+- c [INSERT](INSERT.sql) запросами
+- c [SELECT](SELECT.sql) запросами
+- c [CREATE](CREATE.sql) запросами
